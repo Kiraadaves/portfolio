@@ -6,7 +6,7 @@ import WhatsAppIcon from "@mui/icons-material/WhatsApp";
 
 const Footer = () => {
   return (
-    <div className="rounded-lg md:px-10 px-7 mt-24 bg-blue-600 pb-4">
+    <div className="rounded-lg md:px-10 px-7 mt-24 bg-blue-600 py-4">
       <div className="text-white  flex flex-col md:flex-row justify-between items-center my-5">
         <p className="mt-10 md:mt-2">@ Copyright 2023 |Chinwe Chukwuogor</p>
         <p className="mt-2 hidden sm:block">Frontend Developer</p>
