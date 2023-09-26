@@ -36,7 +36,7 @@ const Projects = () => {
               A simple movie app using TMDB API.
             </p>
             <div className="mt-5">
-              <a href="https://dragn-drop-orpin.vercel.app/">
+              <a href="https://movie-discovery-drab.vercel.app/">
                 <button className="btn transition-all duration-500 bg-blue-600 py-2 px-6 rounded text-white font-semibold hover:bg-blue-500 hover:text-white">
                   View
                 </button>
@@ -51,7 +51,7 @@ const Projects = () => {
             A remake of the tindog website for users to adopt lost puppies.
           </p>
           <div className="mt-5">
-            <a href="dragn-drop-orpin.vercel.app">
+            <a href="https://kiraadaves.github.io/tindog-website-remake/">
               <button className="btn transition-all duration-500 bg-blue-600 py-2 px-6 rounded text-white font-semibold hover:bg-blue-500 hover:text-white">
                 View
               </button>
