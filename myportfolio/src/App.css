@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800&display=swap");
+
+body {
+  font-family: "Poppins", sans-serif;
+  
+}
+
+.service-card {
+  width: auto;
+  height: 338px;
+  background: transparent;
+  border: 3px solid rgb(30 58 138);
+  filter: drop-shadow(0px 2px 4px rgba(0, 0, 0, 0.2));
+  border-radius: 16px;
+}
+
+.service-card:nth-child(even) {
+  border: 3px solid white;
+}
+
+.service-card:hover {
+  border-color: rgb(191 219 254);
+  background-color: rgb(96 165 250);
+}
+
