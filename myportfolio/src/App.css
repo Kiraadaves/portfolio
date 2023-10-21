@@ -5,6 +5,11 @@ body {
   
 }
 
+.custom-image {
+  width: 200px;
+  height: 200px;
+}
+
 .service-card {
   width: auto;
   height: 338px;

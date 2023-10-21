@@ -67,7 +67,7 @@ const Header = () => {
                 activeClass="active"
                 smooth={true}
                 spy={true}
-                className={`transition-all duration-500 hover:text-blue-900 ${
+                className={`transition-all duration-500 hover:text-blue-300 cursor-pointer ${
                   open ? "text-blue-600" : "text-white"
                 }`}
               >
