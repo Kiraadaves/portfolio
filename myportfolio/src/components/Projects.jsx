@@ -47,7 +47,7 @@ const projects = [
     id: 6,
     src: `${newsletter}`,
     title: "Newsletter Subscription",
-    about: "Newsletter subscription with success/error message",
+    about: "Newsletter sub with success/error message",
     link: "https://newsletter-subscription-lime.vercel.app/",
   },
   {
