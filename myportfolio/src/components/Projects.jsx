@@ -94,7 +94,7 @@ const Projects = () => {
               {project.about}
             </p>
             <div className="mt-5 justify-center flex">
-              <a href="https://dragn-drop-orpin.vercel.app/">
+              <a href={project.link}>
                 <button className="btn transition-all duration-500 bg-blue-600 py-1 px-9 rounded text-white font-semibold hover:bg-blue-500 hover:text-white">
                   View
                 </button>
